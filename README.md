@@ -1,1 +1,1 @@
-# Quiz-simples
+# Exemplo de um simples quiz com javascript
